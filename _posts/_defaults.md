@@ -3,7 +3,7 @@ layout: post
 title:
 date:
 tags:
-excerpt:
+excerpt: ""
 enclosure:
 pullquote:
 enclosure_type: video/mp4
